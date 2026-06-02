@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Iniciar sesión</title>
-  <link rel="stylesheet" href="../proyecto_asistecia/style/loginstyle.css">
+  <link rel="stylesheet" href="../style/loginstyle.css">
 
 </head>
 <body>
@@ -18,7 +18,7 @@
         <span class="icon">
           <ion-icon name="mail"></ion-icon>
         </span>
-        <input type="email" required>
+        <input type="text" required>
         <label>Documento</label>
       </div>
 
@@ -41,6 +41,7 @@
       <button type="submit" class="btn-login">Login</button>
       <button type="submit">Volver al inicio</button>
       
+
     </form>
   </div>
 
